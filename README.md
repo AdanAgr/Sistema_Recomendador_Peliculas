@@ -1,2 +1,2 @@
 # RAIN
-Trabajo Sobre un Sistema de Recomendación de Películas
+Sistema que hace recomendaciones sobre películas 
